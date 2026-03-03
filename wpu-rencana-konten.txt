@@ -11,3 +11,7 @@ RENCANA KONTEN WPU
 - Interview
 - Vlogs
 - Python
+- video tentang lalyouting
+  * berfokus pada semantic html
+  * layout yang rapih
+- membuat ulang banyak playlist web development, mengikuti perkembangan zaman
